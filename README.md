@@ -1,4 +1,4 @@
-# bernardndeogo
+# Bernard Ndeogo Issifu
 
 ### Education
 Transportation Engineering, MS
