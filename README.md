@@ -1,1 +1,4 @@
 # bernardndeogo
+
+### Education
+Transportation Engineer
