@@ -1,11 +1,10 @@
-# Data Scientist
+# Transportation Engineer 
 
 #### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
 
 ## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+- M.S., Transportation Engineering	| The University of Texas at Dallas (_December 2023_)	 			        		
+- B.S., Civil Engineering | The University of Texas at Dallas (_July 2018_)
 
 ## Work Experience
 **Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
