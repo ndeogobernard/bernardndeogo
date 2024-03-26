@@ -1,4 +1,5 @@
 title: Bernard Ndeogo Issifu
 logo: asset/Bernard headshot.JPG
-# show_downloads: false
+description: TExt below here
+show_downloads: false
 theme: jekyll-theme-minimal
